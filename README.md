@@ -42,6 +42,6 @@
 
 <h2>🔧 Libraries n Tools I mostly use 🔧</h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=materialui,tailwindcss,maven,prisma,sequelize" /><br>
+  <img src="https://skillicons.dev/icons?i=materialui,tailwindcss,maven,prisma,docker" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,github,gitlab,postman" /><br>
 </div>
