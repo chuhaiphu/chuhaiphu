@@ -6,6 +6,7 @@
 <p align="left">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/46a217bc49934cd2a8b58ac56e28945e"><img src="./aws-certified-cloud-practitioner.png" alt="AWS Certified Badge" width="12%"/></a>
   <a href="https://www.credly.com/badges/d64e4b67-6efd-497e-bfbc-7825185c2102/public_url"><img src="./aws-cloud-quest-cloud-practitioner.png" alt="AWS Certified Badge" width="12%"/></a>
+  <a href="https://www.credly.com/badges/eb592b80-04e0-425b-a95d-4f2839348c92/public_url"><img src="./cloud-digital-leader-certification.png" alt="AWS Certified Badge" width="12%"/></a>
 </p>
 
 <br>
