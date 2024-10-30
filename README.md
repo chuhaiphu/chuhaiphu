@@ -2,11 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=172AC5&width=435&lines=Hi+travelers%2C;How's+it+going%3F;I'm+Phu%2C;You+are+in+my+Github+profile%2C;Feel+free+to+wander+around+%3C3)](https://git.io/typing-svg)
 
 
-<h2>🏆 My achievements 🏆</h2>
+<h2>🏆 My achievements 🏆 &nbsp; <a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a></h2>
 <p align="left">
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/46a217bc49934cd2a8b58ac56e28945e"><img src="./aws-certified-cloud-practitioner.png" alt="AWS Certified Badge" width="16%"/></a>
-  <a href="https://www.credly.com/badges/d64e4b67-6efd-497e-bfbc-7825185c2102/public_url"><img src="./aws-cloud-quest-cloud-practitioner.png" alt="AWS Certified Badge" width="16%"/></a>
-  <a href="https://www.credly.com/badges/eb592b80-04e0-425b-a95d-4f2839348c92/public_url"><img src="./cloud-digital-leader-certification.png" alt="AWS Certified Badge" width="15%"/></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/46a217bc49934cd2a8b58ac56e28945e"><img src="./aws-certified-cloud-practitioner.png" width="12%"/></a>
+  <a href="https://www.credly.com/badges/eb592b80-04e0-425b-a95d-4f2839348c92/public_url"><img src="./cloud-digital-leader-certification.png" width="11%"/></a>
+  <a href="https://www.credly.com/badges/852a672b-6049-4b49-8a56-7e03b5d5cc35/public_url"><img src="./mongodb-associate-developer.7.png" width="12%"/></a>
 </p>
 
 <br>
