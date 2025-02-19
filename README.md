@@ -4,6 +4,7 @@
 
 <h2>🏆 My achievements 🏆 &nbsp; <a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a></h2>
 <p align="left">
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f0c74e206357411bb05dff111de6452e"><img src="./aws-certified-solutions-architect-associate.png" width="12%"/></a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/46a217bc49934cd2a8b58ac56e28945e"><img src="./aws-certified-cloud-practitioner.png" width="12%"/></a>
   <a href="https://www.credly.com/badges/eb592b80-04e0-425b-a95d-4f2839348c92/public_url"><img src="./cloud-digital-leader-certification.png" width="11%"/></a>
   <a href="https://www.credly.com/badges/852a672b-6049-4b49-8a56-7e03b5d5cc35/public_url"><img src="./mongodb-associate-developer.7.png" width="12%"/></a>
