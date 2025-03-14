@@ -22,6 +22,7 @@
 ### Backend
 <p align="left">
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/></a>
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
 </p>
@@ -48,10 +49,19 @@
 
 <br>
 
-<h2>🔧 Libraries n Tools I mostly use 🔧</h2>
+<h2>🔧 Libraries n Tools I use 🔧</h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=materialui,tailwindcss,maven,prisma,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,github,gitlab,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=materialui,tailwindcss,maven,npm,yarn,prisma" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,vscode,idea,github,gitlab,postman" /><br>
 </div>
 
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuhaiphu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 <img src="https://raw.githubusercontent.com/chuhaiphu/chuhaiphu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<br>
+<img src="https://raw.githubusercontent.com/chuhaiphu/chuhaiphu/output/snake.svg" alt="Snake animation" />
+
