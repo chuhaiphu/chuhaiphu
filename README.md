@@ -63,5 +63,3 @@
 ###
 <img src="https://raw.githubusercontent.com/chuhaiphu/chuhaiphu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 <br>
-<img src="https://raw.githubusercontent.com/chuhaiphu/chuhaiphu/output/snake.svg" alt="Snake animation" />
-
