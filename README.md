@@ -5,6 +5,11 @@
 <div align="center">
   <img height="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/chuhaiphu/chuhaiphu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
 <br>
 
 <h2>🏆 My Certifications 🏆 &nbsp; <a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a></h2>
@@ -56,10 +61,4 @@
 </div>
 
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuhaiphu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
-<img src="https://raw.githubusercontent.com/chuhaiphu/chuhaiphu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-<br>
