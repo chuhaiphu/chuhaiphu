@@ -1,4 +1,4 @@
-### 🌐 A Passionate web developer dedicated to mastering full-stack technologies, from frontend and backend to deployment
+### 🌐 A Passionate Developer dedicated to mastering Full-Stack technologies
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8DF7&background=AF3CFF00&width=435&lines=Hi+travelers%2C;How's+it+going%3F;You+are+in+my+Github+Profile;Feel+free+to+wander+around+%3C3)](https://git.io/typing-svg)
 
