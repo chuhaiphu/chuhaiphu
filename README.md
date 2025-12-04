@@ -50,8 +50,3 @@
 </p>
 
 <br>
-<br>
-
-###
-<img src="https://raw.githubusercontent.com/chuhaiphu/chuhaiphu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-<br>
