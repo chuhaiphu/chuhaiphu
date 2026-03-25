@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2>🏆 My Certifications 🏆 &nbsp; <a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a></h2>
+<h2>My Certifications&nbsp; <a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a></h2>
 <p align="left">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f0c74e206357411bb05dff111de6452e"><img src="./aws-certified-solutions-architect-associate.png" width="14%"/></a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/46a217bc49934cd2a8b58ac56e28945e"><img src="./aws-certified-cloud-practitioner.png" width="14%"/></a>
@@ -17,7 +17,7 @@
 
 <br>
 
-<h2>🛠️ Tech Stacks that I am currently capable of 🛠️</h2>
+<h2>My Tech Stacks</h2>
 
 ### Backend
 <p align="left">
